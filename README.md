@@ -28,7 +28,8 @@ Fine-tuning
 LoRA (PEFT)
 
 Model on HuggingFace  
-https://huggingface.co/Yashdew/ipc-bns-legal-assistant
+https://huggingface.co/Yashdew/ipc-bns-legal-assistant<img width="1824" height="867" alt="Screenshot 2026-03-11 142924" src="https://github.com/user-attachments/assets/41e8223c-b274-4cd1-926e-6beee9e1f12f" />
+
 
 ---
 
