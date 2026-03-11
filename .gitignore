@@ -25,3 +25,7 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+# venv files
+.venv-1/
+__pycache__/
+.cache/
